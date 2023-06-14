@@ -22,6 +22,7 @@ import Data.List
 -- 2004 and 2020 in this order.
 
 years = [1982, 2004, 2020] :: [Int]
+-- don't need :: [Int] at the end.
 
 ------------------------------------------------------------------------------
 -- Ex 2: define the function takeFinal, which returns the n last
